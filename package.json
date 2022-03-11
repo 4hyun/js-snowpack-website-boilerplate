@@ -12,6 +12,7 @@
   "author": "Sa Hwang <sh@argopacific.io>",
   "license": "ISC",
   "devDependencies": {
+    "@snowpack/plugin-dotenv": "^2.2.0",
     "@snowpack/plugin-sass": "^1.4.0",
     "axios": "^0.26.1",
     "eslint": "^8.10.0",
